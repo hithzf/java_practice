@@ -1,0 +1,13 @@
+.classpath
+.idea
+*.iml
+.project
+.settings
+.checkstyle
+.idea
+*iml
+bin
+/*/target
+/target
+MANIFEST.MF
+*flattened-pom.xml
